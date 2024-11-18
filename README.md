@@ -12,6 +12,10 @@ This project implements an **Improved RRT-Connect Algorithm** designed for faste
 - Achieved **8.82x faster pathfinding** compared to traditional RRT-Connect.
 - Reduced node redundancy, resulting in smoother and more direct paths.
 
+## Demonstration Video
+![Algorithm Demo](C:\Users\sudan\OneDrive\Documents\GitHub\improved-RRT\output\Improved_RRT)
+
+
 ## Implementation Details
 The project integrates a third midpoint and biases the tree flow for rapid convergence to a common point. The improvements ensure efficient navigation and accurate path planning in environments with high obstacle density.
 
