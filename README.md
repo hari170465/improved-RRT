@@ -17,10 +17,14 @@ The project integrates a third midpoint and biases the tree flow for rapid conve
 
 
 
+## How to Run the Code
+1. Clone this repository and ensure the required packages are installed:
+   - `OpenCV`
+   - `math`
+   - `random`
+   - `time`
+   - `numpy`
 
-you can change the start and goal in the code as you wish to check the algorithm
-the sample input is 
--Enter the start coordinates (x, y): 20,20
--Enter the goal coordinates (x, y): 580,50
-
-the packages required are OpenCV, math, random, time, numpy
+2. Enter the star and goal coordinates. One such exampple is given below.
+  - Enter the start coordinates (x, y): 20,20
+  - Enter the goal coordinates (x, y): 580,50
