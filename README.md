@@ -13,7 +13,7 @@ This project implements an **Improved RRT-Connect Algorithm** designed for faste
 - Reduced node redundancy, resulting in smoother and more direct paths.
 
 ## Demonstration Video
-![Algorithm Demo](C:\Users\sudan\OneDrive\Documents\GitHub\improved-RRT\output\Improved_RRT)
+![Algorithm Demo](C:\Users\sudan\OneDrive\Documents\GitHub\improved-RRT\output\Improved_RRT.mp4)
 
 
 ## Implementation Details
