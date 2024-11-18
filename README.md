@@ -20,7 +20,7 @@ The project integrates a third midpoint and biases the tree flow for rapid conve
 
 you can change the start and goal in the code as you wish to check the algorithm
 the sample input is 
-Enter the start coordinates (x, y): 20,20
-Enter the goal coordinates (x, y): 580,50
+-Enter the start coordinates (x, y): 20,20
+-Enter the goal coordinates (x, y): 580,50
 
 the packages required are OpenCV, math, random, time, numpy
