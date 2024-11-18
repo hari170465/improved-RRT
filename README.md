@@ -13,9 +13,7 @@ This project implements an **Improved RRT-Connect Algorithm** designed for faste
 - Reduced node redundancy, resulting in smoother and more direct paths.
 
 ## Demonstration Video
-[![Algorithm Demo](https://youtu.be/OwJZOLQHhbg)]
-
-
+https://github.com/user-attachments/assets/65aa2330-4d62-4e7f-b42c-6416f05c5dc2
 
 ## Implementation Details
 The project integrates a third midpoint and biases the tree flow for rapid convergence to a common point. The improvements ensure efficient navigation and accurate path planning in environments with high obstacle density.
